@@ -1,0 +1,18 @@
+# Cartelle di compilazione (generate da CMake: si ricreano sempre)
+build/
+out/
+
+# File dell'editor
+.vs/
+.vscode/
+
+# Librerie scaricate da vcpkg
+vcpkg_installed/
+
+# File compilati
+*.exe
+*.obj
+*.pdb
+
+# Impostazioni personali di CMake
+CMakeUserPresets.json
