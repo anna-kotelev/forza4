@@ -1,0 +1,3 @@
+# Git non salva le cartelle vuote: questo file tiene "viva" include/forza4/.
+# Qui andranno gli header della logica di gioco (Board.h, Player.h, Game.h...).
+# Si potrà cancellare quando ci sarà il primo .h.
